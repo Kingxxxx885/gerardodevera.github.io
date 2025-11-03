@@ -1,0 +1,25 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome To My Website</title>
+  <style>
+    body {
+      font-family: Arial;
+      background-color: #fofofo;
+      text-align: center;
+      padding-top: 100px;
+    }
+    h1 {
+       color: #007bff;
+    }
+  </style>
+</head>
+<body>
+   <h1>Supreme God! 💀</h1>
+   <p>this is my first creation!</p>
+</body>
+</html>
+
+Add index.html
